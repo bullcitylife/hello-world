@@ -1,2 +1,3 @@
 # hello-world
-Just walking myself through the steps in creating a repository
+Right now I'm learning how to create a repository.
+Now I'm learning how to make and commit changes to a repository.
